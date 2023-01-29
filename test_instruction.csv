@@ -1,0 +1,13 @@
+key,field
+$text,ยอดกด
+TAB,
+$text,ดอกเบี้ยต่อปี
+TAB,
+$text,ค่าธรรมเนียม
+TAB,
+$text,VAT
+TAB,
+$text,ระยะเวลาที่กด
+TAB,
+$text,รวมยอดที่ต้องจ่าย
+ENTER,
